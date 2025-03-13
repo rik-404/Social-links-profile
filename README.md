@@ -14,11 +14,11 @@ Este projeto foi desenvolvido como parte de um desafio do **Frontend Mentor**. T
 ## Como Executar o Projeto
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/social-links-profile.git
+   git clone https://github.com/rik-404/Social-links-profile.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd social-links-profile
+   cd Social-links-profile
    ```
 3. Abra o arquivo `index.html` em um navegador.
 
